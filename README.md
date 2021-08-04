@@ -1,5 +1,4 @@
-![Awesome_GitHub! (1)](https://user-images.githubusercontent.com/41645822/128105434-d426ae2a-7bbc-43c5-b699-869081755908.png)
-
+![Awesome_GitHub! (2)](https://user-images.githubusercontent.com/41645822/128105929-e7b3d4ac-0650-4bc8-95d5-3b229eb33c84.png)
 
 ### Hey there 👋 (yes you, the one infront of the screen)
 
