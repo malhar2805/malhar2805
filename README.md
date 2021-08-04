@@ -1,4 +1,8 @@
-### Hi there 👋
+![Header](https://raw.githubusercontent.com/malhar2805/<OWNER>/<OWNER>/readme_header.png "Header")]
+
+### Hey there 👋 (yes you, the one infront of the screen)
+
+My Name is Malhar Shah 
 
 <!--
 **malhar2805/malhar2805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
