@@ -1,8 +1,10 @@
-![Header](https://raw.githubusercontent.com/malhar2805/<OWNER>/<OWNER>/readme_header.png "Header")]
+![Awesome_GitHub! (1)](https://user-images.githubusercontent.com/41645822/128105434-d426ae2a-7bbc-43c5-b699-869081755908.png)
+
 
 ### Hey there 👋 (yes you, the one infront of the screen)
 
-My Name is Malhar Shah 
+My Name is Malhar Shah and I am (a soon to be) senior in highschool. I love everything about food and chess ![Uploading Awesome_GitHub!.png…]()
+
 
 <!--
 **malhar2805/malhar2805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
