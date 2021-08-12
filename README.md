@@ -4,7 +4,7 @@
 
 My Name is Malhar Shah and I am (a soon to be) senior in highschool. I love everything about food and chess!
 
-I am currenlty a novice coder and have been coding for about ~2 years now. I am comfortable working in python :snake: and enough C++ to be able to use Ardino (which is not much I'm afraid.)
+I am currenlty a novice coder and have been coding for about ~2 years now (as seen by my stats horrendous :sweat: . I am comfortable working in python :snake: and enough C++ to be able to use Ardino (which is not much I'm afraid.)
 
 My real strenghts are in the hardware side of computer engineering, such as Breadboards, Arduino, Raspberry Pi, Microbit, and any other device that breaches software and hardware together. 
 
