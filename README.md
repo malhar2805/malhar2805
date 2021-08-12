@@ -8,7 +8,7 @@ I am currenlty a novice coder and have been coding for about ~2 years now. I am 
 
 My real strenghts are in the hardware side of computer engineering, such as Breadboards, Arduino, Raspberry Pi, Microbit, and any other device that breaches software and hardware together. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?malhar2805=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Malhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=malhar2805)](https://github.com/malhar2805/github-readme-stats)
 
 Whenever I'm not coding and trying out new projects on my Arudino, I can be found outside playing basketball, working out in my home gym, and playing chess as a 1600 rated player!
 
