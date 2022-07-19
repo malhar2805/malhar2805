@@ -2,7 +2,7 @@
 
 ### Hey there 👋 (yes you, the one infront of the screen)
 
-My Name is Malhar Shah and I am (a soon to be) senior in highschool. I love everything about food and chess!
+My Name is Malhar Shah and I am a soon to be freshman at the University of Waterloo for a Bachleor in Computer Science. I love everything about food and chess!
 
 I am currenlty a novice coder and have been coding for about ~2 years now (as seen by my horrendous stats :sweat:). I am comfortable working in python :snake: and enough C++ to be able to use Ardino (which is not much I'm afraid.)
 
