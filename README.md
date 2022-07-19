@@ -8,10 +8,10 @@ I am currenlty a novice coder and have been coding for about ~2 years now (as se
 
 [![Malhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=malhar2805)](https://github.com/malhar2805/github-readme-stats)
 
-My real strenghts are in the hardware side of computer engineering, such as Breadboards, Arduino, Raspberry Pi, Microbit, and any other device that breaches software and hardware together. 
-Whenever I'm not coding and trying out new projects on my Arudino, I can be found outside playing basketball, working out in my home gym, and playing chess as a 1600 rated player!
+My real strenghts are in the hardware side of computer engineering, such as Breadboards, Arduino, Raspberry Pi, Microbit, and any other device that breaches software and hardware together. I also have some experience in creating prototypes and using tools like Figma.
+Whenever I'm not coding and trying out new projects on my Arudino, I can be found outside playing basketball, working out at my community center, and playing chess as a 1600 rated player!
 
-I just recently attended Hack the North hosted by University of Waterloo. My freinds and I built a project called Orthios that corrects your posture by sending a notfication to your phone!
+I have attended multiple hackathons including Hack the North 2021 hosted by the University of Waterloo. My freinds and I built a project called Orthios that corrects your posture by sending a notfication to your phone! In addtion, we created a prototype of an app using Figma Beta, a widely recongized vector graphics editor. 
 
 I appreaciate the time you took to read my page so, as a return gift, here is a Fun Fact!
 
