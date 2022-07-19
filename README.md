@@ -4,7 +4,7 @@
 
 My Name is Malhar Shah and I am a soon to be freshman studying Computer Science at the University of Waterloo. I love everything about food and chess!
 
-I am currenlty a novice coder and have been coding for about ~2 years now (as seen by my horrendous stats :sweat:). I am comfortable working in python :snake: and enough C++ to be able to use Ardino (which is not much I'm afraid.)
+I am currently a novice coder and have been coding for about ~2 years now (as seen by my horrendous stats :sweat:). I am comfortable working in python :snake: and enough C++ to be able to use Ardino (which is not much I'm afraid.)
 
 [![Malhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=malhar2805)](https://github.com/malhar2805/github-readme-stats)
 
