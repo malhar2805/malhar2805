@@ -1,19 +1,17 @@
 ![Awesome_GitHub! (2)](https://user-images.githubusercontent.com/41645822/128105929-e7b3d4ac-0650-4bc8-95d5-3b229eb33c84.png)
 
-### Hey there 👋 (yes you, the one infront of the screen)
+### Hey there 👋 
 
-My Name is Malhar Shah and I am a soon to be freshman studying Computer Science at the University of Waterloo. I love everything about food and chess!
+My Name is Malhar Shah and I am a freshman studying Computer Science at the University of Waterloo. I love everything about food and chess!
 
-I am currently a novice coder and have been coding for about ~2 years now (as seen by my horrendous stats :sweat:). I am comfortable working in python :snake: and enough C++ to be able to use Ardino (which is not much I'm afraid.)
-
+I am currently an ambitious coder and have been coding for about ~2 years now. I am comfortable working in Python, C, and Javascript, specializing in the MERN stack.
 [![Malhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=malhar2805)](https://github.com/malhar2805/github-readme-stats)
 
-My real strenghts are in the hardware side of computer engineering, such as Breadboards, Arduino, Raspberry Pi, Microbit, and any other device that breaches software and hardware together. I also have some experience in creating prototypes and using tools like Figma.
-Whenever I'm not coding and trying out new projects on my Arudino, I can be found outside playing basketball, working out at my community center, and playing chess as a 1600 rated player!
+My real strengths are in the AI department. I have ample experience in popular AI tools such as Tensorflow 2.0, Open CV, and Cohere API, creating multiple classification and regression models. Whenever I'm not coding and trying out new projects on my Arduino, I can be found outside playing basketball, working out at my community centre, and playing chess as a 1600-rated player!
 
-I have attended multiple hackathons including Hack the North 2021 hosted by the University of Waterloo. My freinds and I built a project called Orthios that corrects your posture by sending a notfication to your phone! In addtion, we created a prototype of an app using Figma Beta, a widely recongized vector graphics editor. 
+I have attended multiple hackathons including Hack the North and UofT Hacks where my team and I created Orthios and Ripple respectively, networking with many professionals along the way. I am particularly interested in Data Science and Machine Learning, essentially anything that resembles Chat GPT.
 
-I appreaciate the time you took to read my page so, as a return gift, here is a Fun Fact!
+I appreciate the time you took to read my page so, as a return gift, here is a Fun Fact!
 
 :zap: The word "Checkmate" in Chess comes from the Persian phrase "Shah Mat," which means "the King is dead."
 
