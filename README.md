@@ -1,7 +1,7 @@
 
 ### Hey there 👋 
 
-My Name is Malhar Shah and I am a freshman studying Computer Science at the University of Waterloo. I love everything about food and chess!
+My Name is Malhar Shah and I am a sophmore studying Computer Science at the University of Waterloo. I love everything about food and chess!
 
 I am currently an ambitious coder and have been coding for about ~2 years now. I am comfortable working in Python, C, and Javascript, specializing in the MERN stack.
 
